@@ -32,4 +32,3 @@ En este proyecto, mi objetivo fue revertir la caída en las ventas de **Adventur
 ---
 ¡No dudes en explorar el código, los dashboards y la documentación para más detalles!
 
-📌 **Nota:** Debido a limitaciones de tamaño de archivo, es posible que el dashboard interactivo de Power BI no se visualice correctamente en el repositorio. Si te gustaría explorarlo, ¡contáctame! Estaré encantado de compartirlo contigo.
